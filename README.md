@@ -12,11 +12,11 @@
 
  <ol> <li>Clone the repository:</li> </ol>
 
- <pre><code>$ git clone https://github.com/codescalper/solana-wallet-integration.git</code></pre>
+ <pre><code>$ git clone https://github.com/sc941432/SolanaWallet.git</code></pre>
 
  <ol start="2"> <li>Change into the project directory:</li> </ol>
 
- <pre><code>$ cd solana-wallet-integration</code></pre>
+ <pre><code>$ cd SolanaWallet</code></pre>
 
  <ol start="3"> <li>Install dependencies:</li> </ol>
 
