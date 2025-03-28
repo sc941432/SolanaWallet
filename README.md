@@ -59,9 +59,3 @@
   </li>
   <li><code>PingButton.tsx</code>: The component that contains the logic for sending a "ping" transaction to the Solana network using the user's selected wallet.</li>  <li><code>WalletContextProvider.tsx</code>: The component that sets up the connection to the Solana network and initializes the available wallets for the Wallet Provider component.</li> 
    </ul>
-<h2>Contribution</h2>
-
- <p> If you would like to contribute to this project, please fork the repository, make your changes, and create a pull request. We welcome all contributions, including bug fixes and feature enhancements. </p>
- <h2>Issues</h2>
-
- <p> If you encounter any issues while using this project, please create an issue on the <a href="https://github.com/codescalper/solana-wallet-integration/issues">GitHub repository</a>. </p>
